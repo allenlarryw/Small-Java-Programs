@@ -3,7 +3,7 @@ import java.util.*;
 public class Main {
 
 	public static void main(String[] args) {
-		ArrayList<Student> listOfStudents = new ArrayList<>();
+		List<Student> listOfStudents = new ArrayList<>();
 
 		Scanner input = new Scanner(System.in);
 
